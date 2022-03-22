@@ -8,7 +8,7 @@ The intention of this exercise is to check your participation. You would need so
 Accept the assignment in a language of your choice -
 you will get a repo of your own. Notice failing GitHub Actions.
 
-Go ahead and fix them. Have fun :)
+Go ahead and fix them on the main branch itself. Have fun :)
 
 [C](https://classroom.github.com/a/bjgk-Zih) |
 [C++](https://classroom.github.com/a/tg9I6Yz4) |
